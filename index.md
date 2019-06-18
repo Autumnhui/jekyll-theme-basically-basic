@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-![picture](/assets/images/home-picture.jpg)
+![picture](/assets/images/fullsizerender.jpg)
