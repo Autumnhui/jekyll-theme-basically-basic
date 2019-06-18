@@ -10,7 +10,7 @@ t:
   menu: "Menu"
   search: "Search"
   results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
+  search_placeholder_text: "你想找什么？"
   home: "Home"
   newer: "Newer"
   older: "Older"
