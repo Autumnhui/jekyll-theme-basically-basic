@@ -25,7 +25,7 @@ author:
   picture: "/assets/images/wallmax-001.jpg"
 twitter_username:
 github_username: autumnhui
-logo: "/assets/images/logo.jpg"
+logo: "/assets/images/logo.png"
 search: true
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
