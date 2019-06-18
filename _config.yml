@@ -22,7 +22,7 @@ url: https://autumnhui.github.io/ # the base hostname & protocol for your site e
 author: 
   name: 
   twitter:
-  picture:
+  picture: "/assets/images/fullsizerender.jpg"
 twitter_username:
 github_username: autumnhui
 logo: "/assets/images/logo.jpg"
