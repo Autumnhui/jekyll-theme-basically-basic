@@ -23,7 +23,6 @@ t:
   of: "of"
   min_read: "分钟会被浪费掉"
   present: "目前-Present"
-  about: "关于-About"
 # Google Fonts
 google_fonts:
   - name: "Fira Sans"
