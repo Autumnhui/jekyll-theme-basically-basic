@@ -1,5 +1,5 @@
 # Theme Skin
-skin: default # default, night, plum, sea, soft, steel
+skin: night # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -7,22 +7,22 @@ t:
   skip_primary_nav: "Skip to primary navigation"
   skip_content: "Skip to content"
   skip_footer: "Skip to footer"
-  menu: "Menu"
-  search: "Search"
+  menu: "菜单-MeNu"
+  search: "搜索-SeArCh"
   site_search: "Site Search"
   results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
-  home: "Home"
-  newer: "Newer"
-  older: "Older"
-  email: "Email"
+  search_placeholder_text: "你想找什么？"
+  home: "主页-HoMe"
+  newer: "更新的"
+  older: "以前的"
+  email: "邮箱-EmAiL"
   subscribe: "Subscribe"
-  read_more: "Read More"
+  read_more: "更多-MoRe"
   posts: "Posts"
   page: "Page"
   of: "of"
-  min_read: "min read"
-  present: "Present"
+  min_read: "所需阅读时长"
+  present: "目前-Present"
 
 # Google Fonts
 google_fonts:
