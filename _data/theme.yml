@@ -23,7 +23,7 @@ t:
   of: "of"
   min_read: "所需阅读时长"
   present: "目前-Present"
-
+	about: "关于这个项目-About"
 # Google Fonts
 google_fonts:
   - name: "Fira Sans"
