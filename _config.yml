@@ -17,7 +17,7 @@ lang: en-US
 title: Autumnhui
 email: autumnhui@outlook.com
 description: Here is decription.
-baseurl: "qiu00.io" # the optional subpath of your site, e.g. "/blog"
+baseurl: "autumnhui.github.io" # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: Qiu00
   name:
