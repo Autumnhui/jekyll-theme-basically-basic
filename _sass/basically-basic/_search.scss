@@ -14,7 +14,7 @@
 
   .icon {
     @include fluid-type($min-vw, $max-vw, 20px, 24px);
-    fill: $navicon-content-bg;
+    fill: #FF9900; //$navicon-content-bg// 
   }
 }
 
