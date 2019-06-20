@@ -3,7 +3,8 @@ author: Autumnhui
 layout: post
 title:  "响应式网页&Html5"
 date:   2019-06-20
-categories: 网页设计
+categories:
+     - 网页设计
 ---
 
 ## 响应式网页
