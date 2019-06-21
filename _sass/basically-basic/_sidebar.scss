@@ -71,10 +71,10 @@
     width: 97%;
     height: 97%;
     padding: 1.5em;
-    background-color: $sidebar-background-color;
+    background-color: black;//$sidebar-background-color;
     overflow-x: hidden;
     -webkit-box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
-    box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
+    box-shadow: 0em 0em 2em #FF9900;
     border-radius: 37px;
     @include breakpoint($medium) {
       padding: 3rem;
@@ -92,6 +92,7 @@
 
     a {
       display: block;
+			color:white;
     }
 
     /* divider line */
@@ -100,13 +101,13 @@
       bottom: 0;
       width: 1.5em;
       height: 1px;
-      background-color: $base-color;
+      background-color: white;//$base-color;
       content: "";
     }
 
     li {
       margin-bottom: 1.5rem;
-    }
+		}
   }
 
   .contact-list {
@@ -120,7 +121,7 @@
 
     a {
       display: block;
-      color: $base-color;
+      color: white;//$base-color;
       text-decoration: none;
     }
   }
