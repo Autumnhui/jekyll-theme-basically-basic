@@ -1,7 +1,9 @@
 ---
 title: "关于-About"
 layout: about
+permalink: /about/
 author: Autumnhui
+image: assets/images/home-picture2.jpg
 ---
 # 关于这个Jekyll
 
