@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ted-Week14
+title: TED-你有系统思考的思维吗？
 author: Autumnhui
 date: 2019-6-19
 categories:
