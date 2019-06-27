@@ -3,7 +3,7 @@ title: "关于-About"
 layout: about
 permalink: /about/
 author: Autumnhui
-image: assets/images/home-picture2.jpg
+image: assets/images/2home-picture.jpg
 ---
 # 关于这个Jekyll
 
