@@ -34,14 +34,14 @@ categories:
 <animateTransform attributeName="transform" begin="0s" dur="10s" type="rotate" from="0 160 160" to="360 160 160" repeatCount="indefinite"/>
 <style>
 .bike {
- animation: hahaha 2s infinite;
+ animation: hahaha 5s infinite;
  animation-timing-function:linear;
 }
 
 @keyframes hahaha{
-0% { left:10px;}
-50% { left: 77px;}
-100% { left:10px;}
+0% {transform:translateX(0PX);}
+50% {transform:scale(1,1.1)}
+70% {transform:translateX(200PX);}
 }  
 </style>
 </svg>
