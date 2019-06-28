@@ -39,9 +39,9 @@ categories:
 }
 
 @keyframes hahaha{
-0% { transform:rotate(0deg);}
-
-100% { transform : rotate(360deg)}
+0% { left:10px;}
+50% { left: 77px;}
+100% { left:10px;}
 }  
 </style>
 </svg>
