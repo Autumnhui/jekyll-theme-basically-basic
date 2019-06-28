@@ -7,4 +7,4 @@ entries_layout: grid
 image: assets/images/2home-picture.jpg
 ---
 
-以下为 **“SVG实践”** 主题的文章。
+# 以下为 **“SVG实践”** 主题的文章。
