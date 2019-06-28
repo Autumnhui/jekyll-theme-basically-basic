@@ -1,6 +1,6 @@
 ---
 title: SVG实践-SVG_Practice
-layout: page
+layout: category
 permalink: /tags/svg/
 taxonomy: svg
 entries_layout: grid
