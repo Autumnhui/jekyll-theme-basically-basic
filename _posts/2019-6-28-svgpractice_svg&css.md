@@ -90,9 +90,7 @@ categories:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 ！！球动了！！怎么做到的呢？我们先上代码~
 ```
@@ -130,20 +128,29 @@ categories:
 **我们对代码进行逐句分析——**
 
 ``` animation: ball 5s infinite;``` ：前面提到，animation是动画，这里是对SVG进行动画的描述，“ball”是给它安的 **名字** ，我们后面的@keyframes要跟它连接上；“5s”是动画的持续时长，这里我们让kunkun的篮球自己动了5s。
+
 ```animation-timing-function``` 是整段运动的速度，我们用了“linear”表示全程的速度是相同的。
 
 ```@keyframes ball``` ：这里开始，我们动用了关键帧了！后面的“ball”就是我们前文提到的对应的名字。我们可以随便取，只要两个地方对应上就好了。
+
 ```0% {transform: rotate(-180deg);}
+
   5%{transform:scale(1,1.2)}
+  
   10%{transform:translateY(200PX);}
+  
   20%{transform:translateX(300PX);}
+  
   30%{transform:translateY(200PX);}
+  
   ......
   ......
+  
   100%{transform:translateY(0PX);}```
   
   这里上面的一大段都是我们对kunkun篮球运动过程的描述。我们可以自己去尝试变化过程，就无需多言了。
 
 
 还是那句话——
+
  **结合css的svg的玩法很多，好好玩。**
