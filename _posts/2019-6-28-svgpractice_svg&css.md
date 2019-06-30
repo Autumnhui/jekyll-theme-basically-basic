@@ -134,19 +134,13 @@ categories:
 ```@keyframes ball``` ：这里开始，我们动用了关键帧了！后面的“ball”就是我们前文提到的对应的名字。我们可以随便取，只要两个地方对应上就好了。
 
 ```0% {transform: rotate(-180deg);}
-
-  5%{transform:scale(1,1.2)}
-  
-  10%{transform:translateY(200PX);}
-  
-  20%{transform:translateX(300PX);}
-  
-  30%{transform:translateY(200PX);}
-  
-  ......
-  ......
-  
-  100%{transform:translateY(0PX);}```
+5%{transform:scale(1,1.2)}
+10%{transform:translateY(200PX);}
+20%{transform:translateX(300PX);}
+30%{transform:translateY(200PX);}
+......
+......
+100%{transform:translateY(0PX);}```
   
   这里上面的一大段都是我们对kunkun篮球运动过程的描述。我们可以自己去尝试变化过程，就无需多言了。
 
