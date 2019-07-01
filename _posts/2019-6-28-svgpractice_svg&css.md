@@ -9,7 +9,7 @@ categories:
 
 # 让SVG自己动起来！
 
-在[上一篇文章《图片高糊？在SVG的世界不存在的！ 》](https://autumnhui.github.io/svg/2019/06/27/svgpractice_intro.html)中，我们成功让一辆自行车违背能量守恒定律自己跑起来，这都要归功于 **CSS3的animation和@keyframes属性！** 
+在[上一篇文章《麻雀虽小五脏俱全——SVG🐂🍻》](https://autumnhui.github.io/svg/2019/06/27/svgpractice_intro.html)中，我们成功让一辆自行车违背能量守恒定律自己跑起来，这都要归功于 **CSS3的animation和@keyframes属性！** 
 
 > Animation属性从字面上就可以知道是指“动画”；其实它是一个简写属性，包括以下这些属性：
 - animation-name——选择需要进行动画效果的对象。
