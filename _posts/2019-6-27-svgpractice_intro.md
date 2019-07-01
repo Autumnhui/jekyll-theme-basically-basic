@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 图片高糊？在SVG的世界不存在的！
+title: 麻雀虽小五脏俱全——SVG🐂🍻
 author: Autumnhui
 date: 2019-6-27
 categories:
