@@ -17,7 +17,7 @@ categories:
 - animation-timing-function——动画的速度曲线。
 - animation-delay——动画在加载出来的几秒后开始（延迟）。
 - animation-iteration-count——动画的播放次数。
- -animation-direction——可选择是否轮流反向播放动画。
+- animation-direction——可选择是否轮流反向播放动画。
 
 <br>
 
