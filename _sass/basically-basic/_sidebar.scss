@@ -129,8 +129,8 @@
 
 .sidebar-toggle-wrapper {
   position: fixed;
-  display: -webkit-box;
-  display: -ms-flexbox;
+  display: flex;
+  display: flex;
   display: flex;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -139,7 +139,7 @@
   right: 0;
   margin: 1.8125rem 0;
   padding-right: 1rem;
-  // background-color: $background-color;
+  background-color: 
   z-index: 10000;
 
   @include breakpoint($medium) {
