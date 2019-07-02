@@ -21,7 +21,7 @@ categories:
 
 👇 此次项目中用了媒体查询的代码 👇
 
-<img src="assets/images/webdesign_@media-pic1.png">
+<img src="/assets/images/webdesign_@media-pic1.png">
 
 
 </center>
