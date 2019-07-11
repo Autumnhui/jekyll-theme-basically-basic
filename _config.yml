@@ -25,7 +25,7 @@ author:
   picture: 
 twitter_username: 
 github_username: autumnhui
-logo: "/assets/images/logo_selfie.jpg"
+logo: "/assets/images/logo.png"
 search: true
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
