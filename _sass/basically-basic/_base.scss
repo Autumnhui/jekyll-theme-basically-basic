@@ -12,8 +12,8 @@ html {
 body {
   background: $background-color;
   color: $text-color;
-  font-family: 'pixel';
-  src: url('assets/pixel.ttf');
+  font-family: '/assets/pixel';
+  // src: url('assets/pixel.ttf');
 }
 
 blockquote,
@@ -37,8 +37,8 @@ code,
 kbd,
 samp,
 pre {
-  font-family: 'pixel';
-  src: url('assets/pixel.ttf');
+  font-family: '/assets/pixel.ttf';
+  // src: url('assets/pixel.ttf');
 }
 
 kbd {
@@ -58,8 +58,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'pixel';
-  src: url('assets/pixel.ttf');
+  font-family: '/assets/pixel.ttf';
+  // src: url('assets/pixel.ttf');
   text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
 }
 
