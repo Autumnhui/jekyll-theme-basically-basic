@@ -1,7 +1,10 @@
 /* ==========================================================================
    Base elements
    ========================================================================== */
-
+  //  @font-face {
+  //   font-family: 'pixel';
+  //   src: url('assets/pixel.ttf');
+  // }
 html {
   @include fluid-type($min-vw, $max-vw, $min-font-size, $max-font-size);
 }
@@ -9,7 +12,8 @@ html {
 body {
   background: $background-color;
   color: $text-color;
-  font-family: "assets/pixel.ttf";
+  font-family: 'pixel';
+  src: url('assets/pixel.ttf');
 }
 
 blockquote,
@@ -33,7 +37,8 @@ code,
 kbd,
 samp,
 pre {
-  font-family: "assets/pixel.ttf";
+  font-family: 'pixel';
+  src: url('assets/pixel.ttf');
 }
 
 kbd {
@@ -53,7 +58,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $headline-font-family;
+  font-family: 'pixel';
+  src: url('assets/pixel.ttf');
   text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
 }
 
