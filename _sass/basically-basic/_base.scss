@@ -33,13 +33,13 @@ q {
   }
 }
 
-code,
-kbd,
-samp,
-pre {
-  // font-family: '/assets/pixel.ttf';
-  // src: url('assets/pixel.ttf');
-}
+// code,
+// kbd,
+// samp,
+// pre {
+//   // font-family: '/assets/pixel.ttf';
+//   // src: url('assets/pixel.ttf');
+// }
 
 kbd {
   display: inline-block;
@@ -52,16 +52,16 @@ kbd {
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25), inset 0 0 0 2px #fff;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  // font-family: '/assets/pixel.ttf';
-  // src: url('assets/pixel.ttf');
-  text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
-}
+// h1,
+// h2,
+// h3,
+// h4,
+// h5,
+// h6 {
+//   // font-family: '/assets/pixel.ttf';
+//   // src: url('assets/pixel.ttf');
+//   text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
+// }
 
 h1 {
   @include fluid-type($min-vw, $max-vw, $h1-min, $h1-max);
