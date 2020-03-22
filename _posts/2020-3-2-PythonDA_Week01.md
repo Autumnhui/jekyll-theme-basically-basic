@@ -1,5 +1,11 @@
-# 📒Python数据分析第一周笔记
-
+---
+author: Autumnhui
+layout: post
+title:  📒Python数据分析第一周笔记
+date:   2020-03-22
+categories:
+     - Python数据分析
+---
 
 ## 1.学习、练习常用快捷键
 
@@ -44,11 +50,7 @@ jupyter notebook不像命令行终端、idle可以直接运行.py文件，但是
 
 示例：
 
-'''
-
-%run ipython_test.py
-
-'''
+`%run ipython_test.py`
 
 ## 魔术命令
 jupyter noteb中有很多类似%run的带%的命令，他可以带给jupyter很多特殊的操作。[详见博客](https://blog.csdn.net/PoGeN1/article/details/82182830)
