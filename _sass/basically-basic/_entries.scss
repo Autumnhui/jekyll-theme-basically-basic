@@ -6,6 +6,9 @@
   @include clearfix();
   margin-bottom: 2rem;
   padding-bottom: 2rem;
+  border: 2px solid rgb(255, 255, 255);
+  padding:14px;
+  border-radius: 16px;
 
   &:not(:last-child) {
     border-bottom: 1px solid $border-color;
