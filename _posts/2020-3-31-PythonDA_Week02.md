@@ -2,7 +2,7 @@
 author: Autumnhui
 layout: post
 title:  📒Python数据分析第二周笔记
-date:   2020-03-30
+date:   2020-03-31
 categories:
      - Python数据分析
 ---
