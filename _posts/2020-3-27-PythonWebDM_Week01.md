@@ -7,7 +7,7 @@ categories:
      - PythonWeb数据挖掘
 ---
 
-# PythonWebDM-Week02笔记
+# PythonWebDM-Week01笔记
 
 ---
 
