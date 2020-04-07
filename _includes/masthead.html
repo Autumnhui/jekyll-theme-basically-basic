@@ -11,7 +11,22 @@
         <h1 class="site-title">
           <a href="{{ '/' | relative_url }}">
             {% if site.logo %}<img src="{{ site_logo }}" alt="" class="site-logo">{% endif %}
-            <span>{{ site.title | escape }}</span>
+            
+<div id="txt" >
+  <style onLoad="show()">
+  </style>
+  <script language="javascript">
+   content = "Make a difference.";
+   i = 0;
+   function show(){  
+   str  = content.substr(0,i); 
+   txt.innerHTML = str + "_"; 
+   i++; 
+   if (i>content.length)i=0; 
+   setTimeout("show()",200); }
+  </script>
+  </div>
+  
           </a>
         </h1>
       {% else %}
@@ -19,7 +34,7 @@
           <a href="{{ '/' | relative_url }}">
             {% if site.logo %}<img src="{{ site_logo }}" alt="" class="site-logo">{% endif %}
             <body onLoad="show()">
-              <div id="txt"><span>{{ site.title | escape }}</span></div>
+              <div id="txt"></div>
               </body>
 
           </a>
@@ -29,13 +44,4 @@
   </div>
 </header>
 
-<script language="javascript">
-content = "{{ site.title | escape }}";
-i = 0;
-function show(){  
-str  = content.substr(0,i); 
-txt.innerHTML = str + "_"; 
-i++; 
-if (i>content.length)i=0; 
-setTimeout("show()",200); }
-</script>
+<!-- <span>{{ site.title | escape }}</span> -->
