@@ -5,15 +5,15 @@
   //   font-family: 'pixel';
   //   src: url('assets/pixel.ttf');
   // }
-html {
-  @include fluid-type($min-vw, $max-vw, $min-font-size, $max-font-size);
-    -webkit-filter: grayscale(100%);
-    -moz-filter: grayscale(100%);
-    -ms-filter: grayscale(100%);
-    -o-filter: grayscale(100%);
-    filter: grayscale(100%);
-    filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
-}
+// html {
+//   @include fluid-type($min-vw, $max-vw, $min-font-size, $max-font-size);
+//     -webkit-filter: grayscale(100%);
+//     -moz-filter: grayscale(100%);
+//     -ms-filter: grayscale(100%);
+//     -o-filter: grayscale(100%);
+//     filter: grayscale(100%);
+//     filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+// }
 
 
 body {
