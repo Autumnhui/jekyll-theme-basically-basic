@@ -18,10 +18,23 @@
         <p class="site-title">
           <a href="{{ '/' | relative_url }}">
             {% if site.logo %}<img src="{{ site_logo }}" alt="" class="site-logo">{% endif %}
-            <span>{{ site.title | escape }}</span>
+            <span>
+              <script language="javascript">
+              content = " {{ site.title | escape }} ";
+              i = 0;
+              function show(){  
+              str  = content.substr(0,i); 
+              txt.innerHTML = str + "_"; 
+              i++; 
+              if (i>content.length)i=0; 
+              setTimeout("show()",200); }
+              </script>
+              </span>
           </a>
         </p>
       {% endif %}
     </div>
   </div>
 </header>
+
+
